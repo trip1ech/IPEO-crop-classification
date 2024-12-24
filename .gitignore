@@ -1,8 +1,15 @@
 *.tif
 *.zip
 *.DS_Store
+
 LEM_raw/*.tif
+LEM_raw/*.zip
+LEM_raw/*.DS_Store
+
+LEM_ROI/*.tif
 LEM_ROI/*.zip
+LEM_ROI/*.DS_Store
 
 EarthEngine-clipped-exports/*.tif
 EarthEngine-clipped-exports/*.zip
+EarthEngine-clipped-exports/*.DS_Store
