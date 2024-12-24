@@ -1,0 +1,8 @@
+*.tif
+*.zip
+
+LEM_raw/*.tif
+LEM_ROI/*.zip
+
+EarthEngine-clipped-exports/*.tif
+EarthEngine-clipped-exports/*.zip
