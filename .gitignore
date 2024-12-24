@@ -1,6 +1,6 @@
 *.tif
 *.zip
-
+*.DS_Store
 LEM_raw/*.tif
 LEM_ROI/*.zip
 
